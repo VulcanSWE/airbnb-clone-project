@@ -108,7 +108,8 @@ The backend for the **Airbnb Clone** project is designed to provide a robust and
 # 🛠️ Features Overview
 
 ### 1. API Documentation
-- **OpenAPI Standard:** Backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.  
+- **OpenAPI Standard:** Backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
+- **API Security:** ensures that only authorized users and systems can access, interact with, and protect sensitive data from threats or misuse. 
 - **Django REST Framework:** Provides a comprehensive RESTful API for handling CRUD operations on user and property data.  
 - **GraphQL:** Offers a flexible and efficient query mechanism for interacting with the backend.  
 
