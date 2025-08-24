@@ -86,7 +86,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 Each component will be designed for reusability and consistency across the application.
 
-# ProDev Front-end
+# ProDev Back-end
 
 # 🚀 Objective
 
